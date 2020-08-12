@@ -1,0 +1,18 @@
+Script started on Tue Aug 11 21:06:01 2020
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jmariaazam@owners-MacBook-Pro CS340Sorting % [K[?2004hgg+ + -c sorting.cpp              g  gg++ -c sorting.cpp[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jmariaazam@owners-MacBook-Pro CS340Sorting % [K[?2004hgg++ sorting.o -o sort[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jmariaazam@owners-MacBook-Pro CS340Sorting % [K[?2004h../sort[?2004l
+How many items would you like to sort? 5
+Enter the items to be sorted: 8 5 3 -2 -5
+The sorted array is: -5 -2 3 5 8 
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jmariaazam@owners-MacBook-Pro CS340Sorting % [K[?2004h../sort[?2004l
+How many items would you like to sort? 9
+Enter the items to be sorted: 12 32 66 3 0 14 77 48 25
+The sorted array is: 0 3 12 14 25 32 48 66 77 
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jmariaazam@owners-MacBook-Pro CS340Sorting % [K[?2004h../sort[?2004l
+How many items would you like to sort? 6
+Enter the items to be sorted: 13 24 35 46 45 18    45
+The sorted array is: 13 24 35 45 45 46 
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jmariaazam@owners-MacBook-Pro CS340Sorting % [K[?2004heexit[?2004l
+
+Script done on Tue Aug 11 21:07:51 2020

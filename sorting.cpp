@@ -4,6 +4,7 @@
     Date:           Tuesday, August 11, 2020
 
     Purpose:        Sort an array of user-input size and integers using the heapSort algorithm.
+    References:     The addition of 'largest' in 'heapify' was added after using this resource: https://www.geeksforgeeks.org/heap-sort/
 */
 
 #include <iostream>

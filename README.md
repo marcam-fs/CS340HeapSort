@@ -8,5 +8,5 @@
   - Create the object file: g++ sorting.o -o sort
   - Run the program: ./sort
   - When prompted with, 
-        "How many items would you like to sort?", enter the number of items
-        "Enter the items to be sorted:", enter only integers
+        - "How many items would you like to sort?", enter the number of items
+        - "Enter the items to be sorted:", enter only integers
